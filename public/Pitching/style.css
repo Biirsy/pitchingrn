@@ -1,0 +1,9 @@
+.nav-link {
+  margin-right: 45px; /* Menambahkan margin kanan untuk mengatur jarak antar teks menu */
+  font-family: "Alegreya", serif;
+}
+
+a {
+  text-decoration: none; /* Remove underline */
+  color: black; /* Set color to black */
+}
